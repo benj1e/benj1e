@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello, I'm Ben.
+---
+
+I'm just a beginner dev looking for experience, check out my projects 😁
 
 <!--
 **benj1e/benj1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
